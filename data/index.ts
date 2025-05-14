@@ -558,11 +558,11 @@ export const photographs = [
   },
   {
     id:4,
-    img:"/Images/works/IMG_1624.jpg"
+    img:"/Images/works/IMG_1624.JPG"
   },
   {
     id:5,
-    img:"/Images/works/IMG_1627.jpg"
+    img:"/Images/works/IMG_1627.JPG"
   },
   {
     id:6,
